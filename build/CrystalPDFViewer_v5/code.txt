@@ -1,0 +1,19 @@
+Last updated: 2026-08-14T14:54:45
+
+Files (13):
+  Analysis-00.toc
+  COLLECT-00.toc
+  CrystalPDFViewer.exe
+  CrystalPDFViewer.pkg
+  EXE-00.toc
+  PKG-00.toc
+  PYZ-00.pyz
+  PYZ-00.toc
+  base_library.zip
+  code.txt
+  generated-d520e386561aa651a4c9c8e7a9bc0133f7f3851dd5e30ba4ad39b6efcd429799.ico
+  warn-CrystalPDFViewer_v5.txt
+  xref-CrystalPDFViewer_v5.html
+
+Subdirectories (1):
+  localpycs

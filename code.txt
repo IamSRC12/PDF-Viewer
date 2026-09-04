@@ -1,0 +1,29 @@
+Last updated: 2026-08-14T14:54:42
+
+Files (18):
+  .gitignore
+  CrystalPDFViewer_v5.spec
+  LICENSE.txt
+  README.md
+  app.js
+  change_log.txt
+  code.txt
+  code_history_log.txt
+  icon.ico
+  icon.png
+  index.html
+  logo.png
+  main.py
+  organize-setup.js
+  requirements.txt
+  setup_v6.iss
+  styles.css
+  timer.html
+
+Subdirectories (6):
+  .agents
+  .git
+  __pycache__
+  build
+  dist
+  lib
